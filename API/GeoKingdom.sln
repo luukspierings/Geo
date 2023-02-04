@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoKingdom.Web", "GeoKingdom.Web\GeoKingdom.Web.csproj", "{246CD339-746B-4152-A6DC-ED8C8D19C389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoKingdom.Application", "GeoKingdom.Application\GeoKingdom.Application.csproj", "{0255EFE4-7326-4D93-B630-3FC09C05A997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoKingdom.Models", "GeoKingdom.Models\GeoKingdom.Models.csproj", "{857F2DC9-2871-4396-A075-2DA12194580C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoKingdom.Tests", "GeoKingdom.Tests\GeoKingdom.Tests.csproj", "{00AF700A-578F-4B17-BF20-B3F95D9D0A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoKingdom.Database", "GeoKingdom.Database\GeoKingdom.Database.csproj", "{D8005241-1508-4548-8972-4F219B5E72EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246CD339-746B-4152-A6DC-ED8C8D19C389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246CD339-746B-4152-A6DC-ED8C8D19C389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246CD339-746B-4152-A6DC-ED8C8D19C389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246CD339-746B-4152-A6DC-ED8C8D19C389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0255EFE4-7326-4D93-B630-3FC09C05A997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0255EFE4-7326-4D93-B630-3FC09C05A997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0255EFE4-7326-4D93-B630-3FC09C05A997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0255EFE4-7326-4D93-B630-3FC09C05A997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857F2DC9-2871-4396-A075-2DA12194580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857F2DC9-2871-4396-A075-2DA12194580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857F2DC9-2871-4396-A075-2DA12194580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857F2DC9-2871-4396-A075-2DA12194580C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AF700A-578F-4B17-BF20-B3F95D9D0A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AF700A-578F-4B17-BF20-B3F95D9D0A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AF700A-578F-4B17-BF20-B3F95D9D0A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AF700A-578F-4B17-BF20-B3F95D9D0A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8005241-1508-4548-8972-4F219B5E72EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8005241-1508-4548-8972-4F219B5E72EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8005241-1508-4548-8972-4F219B5E72EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8005241-1508-4548-8972-4F219B5E72EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E90B3F0-2202-4330-8792-7BB2E64A0BB7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CloudTileMaterial_Cloud
+  m_Shader: {fileID: -6465566751694194690, guid: 98717bf6bcc0a5c439abe66e6961f105, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_01cd0e6a0ec146338caa392e3e2c9e63: 0.1
+    - Vector1_24fe2e69e5f04d22939630d7eba7f364: 2.68
+    - Vector1_2773ca02394e4d84b205d91ce60fa1e0: 0.15
+    - Vector1_a6f1ae8585a34b88a9d05dcb81b7a302: 0.7
+    - Vector1_c8b909b00e9e49f19087c6a86cfabdfb: 0.66
+    m_Colors:
+    - Color_81ba110f667148629bad8bc057924554: {r: 0.77254903, g: 0.89411765, b: 0.9921568, a: 1}
+    - Color_f631eff3eb244761bc72ffe957fd9fc7: {r: 0.77254903, g: 0.89411765, b: 0.9921568, a: 1}
+    - Vector4_33546c4fb72942f4ad97921c4b9a7443: {r: 1, g: 0, b: 0, a: 90}
+  m_BuildTextureStacks: []
